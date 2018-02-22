@@ -1,0 +1,11 @@
+
+#игнорируем все файлы кроме gitignore
+#*
+#*/
+#!.gitignore
+stroiinvest.clpprj
+stroiinvest_clcs.csprj
+bootstrap-grid.css
+jquery-3.2.1.slim.min.js
+sass
+main.css.map
